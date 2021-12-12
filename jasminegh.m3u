@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1  watch more on omohak tv
+
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/metro.png" group-title="AF| AFRICA",|GHANA|  METRO TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51764
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/ADOMTV.png" group-title="AF| AFRICA",|GHANA| ADOM TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51765
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/BEN.png" group-title="AF| AFRICA",|GHANA| BEN
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51766
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/GTVGHANA.png" group-title="AF| AFRICA",|GHANA| GTV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51768
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/JOY%20PRIM%20TV.png" group-title="AF| AFRICA",|GHANA| JOY PRIME
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51770
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/KESSBENTVGHANA.png" group-title="AF| AFRICA",|GHANA| KESSBEN TV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51771
+#EXTINF:-1 tvg-logo="http://185.165.243.195/LOGO%20DREAMTV%204K/RTV.png" group-title="AF| AFRICA",|GHANA| RTV
+#EXTVLCOPT:http-user-agent=REDLINECLIENT
+http://dream4k.co:2082/DM_Snappyarr/adfsgbhgsvdfv/51772
